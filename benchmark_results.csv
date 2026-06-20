@@ -1,0 +1,5 @@
+Metric,RSA-2048,ML-KEM-768
+Key generation (ms),1413.8077,0.2530
+Encryption (ms),1.2536,0.2640
+Decryption (ms),5.8472,0.1639
+Public key size (bytes),450,1184

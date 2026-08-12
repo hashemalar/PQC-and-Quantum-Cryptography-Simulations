@@ -48,4 +48,4 @@ Classical public-key algorithms like RSA rely on the difficulty of factoring lar
 
 ## Author
 
-Hashem Al-Araeed — Computer Science student aiming to work as a SOC Analyst. Interested in the intersection of cybersecurity and quantum computing.
+Hashem Al-Alarbeed — Computer Science student aiming to work as a SOC Analyst. Interested in the intersection of cybersecurity and quantum computing.
